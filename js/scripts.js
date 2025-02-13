@@ -2,8 +2,8 @@
 
 gsap.to("#moon",{
   
-  scale : 1,
-  duration: 1.5 ,
+  scale : 1.25,
+  duration: 5 ,
   transformOrigin: '50% 50%',
   repeat: -1,
   yoyo: true ,
@@ -16,7 +16,7 @@ gsap.from(".G",{
 
   duration: 10, 
   repeat: -1,
-  fill: "purple" ,
+  fill: "darkslateblue" ,
   stagger: .5, 
   ease: 'elastic',
  
@@ -29,7 +29,7 @@ gsap.from(".O", {
   
    duration: 10, 
   repeat: -1,
-  fill: "purple" ,
+  fill: "darkslateblue" ,
   stagger: .5, 
   ease: 'elastic',
   
@@ -40,7 +40,7 @@ gsap.from(".o", {
   
     duration: 10, 
   repeat: -1,
-  fill: "purple" ,
+  fill: "darkslateblue" ,
   stagger: .75, 
   ease: 'elastic',
   
@@ -50,7 +50,7 @@ gsap.from(".g",{
   
      duration: 10, 
   repeat: -1,
-  fill: "purple" ,
+  fill: "darkslateblue" ,
   stagger: .5, 
   ease: 'elastic',
   
