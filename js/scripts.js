@@ -2,8 +2,8 @@
 
 gsap.to("#moon",{
   
-  scale : 1.25,
-  duration: 9 ,
+  scale : 1.5,
+  duration: 5 ,
   transformOrigin: '50% 50%',
   repeat: -1,
   yoyo: true ,
@@ -80,6 +80,7 @@ gsap.to(".lamppair",{
    duration: .5,
   fill: 'white',
   delay: 7,
+  scale: 1.25,
   
  
   
