@@ -1,34 +1,62 @@
+body {
+  
+  background: #1B1212;
+}
+
+
 #L {
   
-  fill: #ffe79a;
+  fill: purple;
 }
 
 .g {
-  fill: #ffe79a;
+  fill: white;
   
 }
 
 .o {
   
-  fill: #ffe79a;
+  fill: white;
 }
 
 #moon {
   
   fill: #eb2632;
+  scale: 1.25;
+
 }
 
 .E {
   
-  fill: #ffe79a;
+  fill: purple;
 }
 
 .G {
-  fill: #ffe79a;
+  fill: white ;
+  
   
 }
 
 .O {
   
- fill: #ffe79a;
+ fill: white;
+}
+
+.lamppair {
+  
+  fill: black;
+  
+}
+
+.lamplight {
+  
+  fill: yellow;
+  stroke: #0D1321;
+  
+}
+
+.windows path {
+  
+  fill: 
+  
 }
