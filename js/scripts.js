@@ -3,10 +3,11 @@
 gsap.to("#moon",{
   
   scale : 1.25,
-  duration: 5 ,
+  duration: 9 ,
   transformOrigin: '50% 50%',
   repeat: -1,
   yoyo: true ,
+  fill:"white"
 
   
 });
